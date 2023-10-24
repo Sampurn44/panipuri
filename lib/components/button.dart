@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:panipuri/theme/colorbutton.dart';
 
 class Allinone extends StatelessWidget {
   final String text;
@@ -11,7 +12,7 @@ class Allinone extends StatelessWidget {
       onTap: onTap,
       child: Container(
         decoration: BoxDecoration(
-          color: const Color.fromARGB(197, 110, 224, 102),
+          color: buttoncolor,
           borderRadius: BorderRadius.circular(40),
         ),
         padding: const EdgeInsets.all(10),
