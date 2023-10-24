@@ -38,12 +38,11 @@ class Intro extends StatelessWidget {
             const SizedBox(
               height: 42,
             ),
-            const Allinone(
+            Allinone(
               text: "Enter the Golgappa world",
               onTap: () {
                 Navigator.pushNamed(context, '/menupage');
               },
-              // Navigator.pushNamed(context, '/menupage')
             ),
           ],
         ),
