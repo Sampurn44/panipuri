@@ -1,19 +1,47 @@
 <h1 align="center">Welcome to Puchka Express 👋</h1>
-<p>
-</p>
+# Puchka Express - Indian Snack Ordering App
 
-> A online panipuri ordering app
+Welcome to Puchka Express, your one-stop solution for ordering a variety of delicious Indian snacks, with a primary focus on the beloved street food, pani puri!
 
-## Author
+## Table of Contents
 
-👤 **Sampurn Chouksey**
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-* Website: github.com/Sampurn44
-* Github: [@Sampurn44](https://github.com/Sampurn44)
+## Introduction
 
-## Show your support
+Puchka Express is a Flutter-based mobile application designed to make ordering Indian snacks, especially pani puri, a breeze. Whether you're craving some spicy street food or want to explore a range of other Indian snacks, this app has got you covered. The app allows you to browse the menu, customize your orders, and have them delivered to your doorstep.
 
-Give a ⭐️ if this project helped you!
+## Features
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+- **User Authentication**: Secure user registration and login to track orders and preferences.
+
+- **Menu Browsing**: Explore a diverse range of Indian snacks and pani puri flavors.
+
+- **Customization**: Customize your orders with preferences and add-ons.
+
+- **Order Placement**: Easily place your order and choose the delivery method.
+
+- **Payment Integration**: Seamless integration with payment gateways for a hassle-free transaction.
+
+- **Order Tracking**: Real-time tracking of your orders to stay updated on the status.
+
+- **Reviews and Ratings**: Share your experiences and read others' reviews to make informed choices.
+
+- **User Profile**: Manage your profile details and preferences.
+
+- **Notifications**: Receive updates on order status, offers, and promotions.
+
+## Getting Started
+
+To get started with Puchka Express, follow these steps:
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/yourusername/PuchkaExpress.git
