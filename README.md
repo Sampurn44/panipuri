@@ -1,6 +1,7 @@
-<h1 align="center">Welcome to Puchka Express 👋 Indian Snack Ordering App</h1>
 
+<h1 align="center"><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Sampurn44/panipuri/blob/master/lib/images/panipurimascot-PhotoRoom.png-PhotoRoom.png" alt="flutter" width="70" height="70"/>Welcome to Puchka Express 👋🏻 Indian Snack Ordering App</h1>
 
+   
 Welcome to Puchka Express, your one-stop solution for ordering a variety of delicious Indian snacks, with a primary focus on the beloved street food, pani puri!
 
 ## Table of Contents
