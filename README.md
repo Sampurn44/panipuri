@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Puchka Express 👋</h1>
-# Puchka Express - Indian Snack Ordering App
+<h1 align="center">Welcome to Puchka Express 👋 Indian Snack Ordering App</h1>
+
 
 Welcome to Puchka Express, your one-stop solution for ordering a variety of delicious Indian snacks, with a primary focus on the beloved street food, pani puri!
 
@@ -8,10 +8,7 @@ Welcome to Puchka Express, your one-stop solution for ordering a variety of deli
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,12 +36,12 @@ To get started with Puchka Express, follow these steps:
 2. Install the necessary dependencies:
    ```shell
    flutter pub get
-3.Set up the project's configuration files and secrets.
+3. Set up the project's configuration files and secrets.
 4. Run the application:
    ```shell
    flutter run
 
-```
+
 Technologies Used
 Flutter: Front-end framework for building mobile applications.
 Dart: The programming language used with Flutter.
