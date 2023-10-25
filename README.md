@@ -1,5 +1,7 @@
 
-<h1 align="center">Welcome to Puchka Express 👋🏻 Indian Snack Ordering App</h1>
+<h1 align="center">Welcome to Puchka Express 👋🏻</h1>
+<h2 align="center"> Indian Snack Ordering App</h2>
+
 
    
 Welcome to Puchka Express, your one-stop solution for ordering a variety of delicious Indian snacks, with a primary focus on the beloved street food, pani puri!
