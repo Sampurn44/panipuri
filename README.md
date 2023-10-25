@@ -19,23 +19,13 @@ Puchka Express is a Flutter-based mobile application designed to make ordering I
 
 ## Features
 
-- **User Authentication**: Secure user registration and login to track orders and preferences.
-
 - **Menu Browsing**: Explore a diverse range of Indian snacks and pani puri flavors.
 
 - **Customization**: Customize your orders with preferences and add-ons.
 
-- **Order Placement**: Easily place your order and choose the delivery method.
+- **Order Placement**: Easily place your order.
 
-- **Payment Integration**: Seamless integration with payment gateways for a hassle-free transaction.
-
-- **Order Tracking**: Real-time tracking of your orders to stay updated on the status.
-
-- **Reviews and Ratings**: Share your experiences and read others' reviews to make informed choices.
-
-- **User Profile**: Manage your profile details and preferences.
-
-- **Notifications**: Receive updates on order status, offers, and promotions.
+- **Ratings**: Sread others' ratings to make informed choices.
 
 ## Getting Started
 
@@ -45,3 +35,17 @@ To get started with Puchka Express, follow these steps:
 
    ```shell
    git clone https://github.com/yourusername/PuchkaExpress.git
+
+2. Install the necessary dependencies:
+   ```shell
+   flutter pub get
+3.Set up the project's configuration files and secrets.
+4. Run the application:
+   ```shell
+   flutter run
+
+```
+Technologies Used
+Flutter: Front-end framework for building mobile applications.
+Dart: The programming language used with Flutter.
+Other Dependencies: Please check pubspec.yaml file for all dependencies
