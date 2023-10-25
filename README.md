@@ -1,8 +1,10 @@
 
-<h1 align="center"><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Sampurn44/panipuri/blob/master/lib/images/panipurimascot-PhotoRoom.png-PhotoRoom.png" alt="flutter" width="70" height="70"/>Welcome to Puchka Express 👋🏻 Indian Snack Ordering App</h1>
+<h1 align="center">Welcome to Puchka Express 👋🏻 Indian Snack Ordering App</h1>
 
    
 Welcome to Puchka Express, your one-stop solution for ordering a variety of delicious Indian snacks, with a primary focus on the beloved street food, pani puri!
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Sampurn44/panipuri/blob/master/lib/images/panipurimascot-PhotoRoom.png-PhotoRoom.png" alt="flutter" width="200" height="200"/>
 
 ## Table of Contents
 
@@ -43,7 +45,10 @@ To get started with Puchka Express, follow these steps:
    flutter run
 
 
-Technologies Used
+## Technologies Used
 Flutter: Front-end framework for building mobile applications.
+
 Dart: The programming language used with Flutter.
+
 Other Dependencies: Please check pubspec.yaml file for all dependencies
+
